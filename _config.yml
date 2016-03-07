@@ -1,0 +1,28 @@
+name: Wanderfull
+favicon: null
+layout_spectrum: 0.9450992897618562
+typography_spectrum: 0.04282508394680917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6432624270673841
+  lightness: 0.11026979750022292
+  saturation: 0.9605133759323508
+  rhythmicContrast: 0.4346070538740605
+purpose: []
